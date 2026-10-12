@@ -7,7 +7,7 @@ django_app_shorthand: django_icalendar
 documentation: true
 email: abe@habet.dev
 full_name: abe hanoka
-github_username: mergecal
+github_username: pycalendar
 has_cli: false
 initial_commit: true
 is_django_package: true

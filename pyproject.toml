@@ -34,10 +34,10 @@ classifiers = [
 dependencies = [
   "django>=4.2",
 ]
-urls."Bug Tracker" = "https://github.com/mergecal/django-icalendar/issues"
-urls.Changelog = "https://github.com/mergecal/django-icalendar/blob/main/CHANGELOG.md"
+urls."Bug Tracker" = "https://github.com/pycalendar/django-icalendar/issues"
+urls.Changelog = "https://github.com/pycalendar/django-icalendar/blob/main/CHANGELOG.md"
 urls.documentation = "https://django-icalendar.readthedocs.io"
-urls.repository = "https://github.com/mergecal/django-icalendar"
+urls.repository = "https://github.com/pycalendar/django-icalendar"
 
 [dependency-groups]
 dev = [

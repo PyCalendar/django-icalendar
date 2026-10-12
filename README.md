@@ -1,14 +1,14 @@
 # Django icalendar
 
 <p align="center">
-  <a href="https://github.com/mergecal/django-icalendar/actions/workflows/ci.yml?query=branch%3Amain">
-    <img src="https://img.shields.io/github/actions/workflow/status/mergecal/django-icalendar/ci.yml?branch=main&label=CI&logo=github&style=flat-square" alt="CI Status" >
+  <a href="https://github.com/pycalendar/django-icalendar/actions/workflows/ci.yml?query=branch%3Amain">
+    <img src="https://img.shields.io/github/actions/workflow/status/pycalendar/django-icalendar/ci.yml?branch=main&label=CI&logo=github&style=flat-square" alt="CI Status" >
   </a>
   <a href="https://django-icalendar.readthedocs.io">
     <img src="https://img.shields.io/readthedocs/django-icalendar.svg?logo=read-the-docs&logoColor=fff&style=flat-square" alt="Documentation Status">
   </a>
-  <a href="https://codecov.io/gh/mergecal/django-icalendar">
-    <img src="https://img.shields.io/codecov/c/github/mergecal/django-icalendar.svg?logo=codecov&logoColor=fff&style=flat-square" alt="Test coverage percentage">
+  <a href="https://codecov.io/gh/pycalendar/django-icalendar">
+    <img src="https://img.shields.io/codecov/c/github/pycalendar/django-icalendar.svg?logo=codecov&logoColor=fff&style=flat-square" alt="Test coverage percentage">
   </a>
 </p>
 <p align="center">
@@ -34,7 +34,7 @@
 
 **Documentation**: <a href="https://django-icalendar.readthedocs.io" target="_blank">https://django-icalendar.readthedocs.io </a>
 
-**Source Code**: <a href="https://github.com/mergecal/django-icalendar" target="_blank">https://github.com/mergecal/django-icalendar </a>
+**Source Code**: <a href="https://github.com/pycalendar/django-icalendar" target="_blank">https://github.com/pycalendar/django-icalendar </a>
 
 ---
 
@@ -66,8 +66,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/mergecal"><img src="https://avatars.githubusercontent.com/u/177171386?v=4?s=80" width="80px;" alt="MergeCal"/><br /><sub><b>MergeCal</b></sub></a><br /><a href="https://github.com/mergecal/django-icalendar/commits?author=mergecal" title="Code">💻</a> <a href="#ideas-mergecal" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/mergecal/django-icalendar/commits?author=mergecal" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://habet.dev/"><img src="https://avatars.githubusercontent.com/u/82916197?v=4?s=80" width="80px;" alt="Abe Hanoka"/><br /><sub><b>Abe Hanoka</b></sub></a><br /><a href="https://github.com/mergecal/django-icalendar/commits?author=abe-101" title="Code">💻</a> <a href="#ideas-abe-101" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/mergecal/django-icalendar/commits?author=abe-101" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/mergecal"><img src="https://avatars.githubusercontent.com/u/177171386?v=4?s=80" width="80px;" alt="MergeCal"/><br /><sub><b>MergeCal</b></sub></a><br /><a href="https://github.com/pycalendar/django-icalendar/commits?author=mergecal" title="Code">💻</a> <a href="#ideas-mergecal" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/pycalendar/django-icalendar/commits?author=mergecal" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://habet.dev/"><img src="https://avatars.githubusercontent.com/u/82916197?v=4?s=80" width="80px;" alt="Abe Hanoka"/><br /><sub><b>Abe Hanoka</b></sub></a><br /><a href="https://github.com/pycalendar/django-icalendar/commits?author=abe-101" title="Code">💻</a> <a href="#ideas-abe-101" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/pycalendar/django-icalendar/commits?author=abe-101" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
