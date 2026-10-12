@@ -1,6 +1,6 @@
 {
   "projectName": "django-icalendar",
-  "projectOwner": "mergecal",
+  "projectOwner": "pycalendar",
   "repoType": "github",
   "repoHost": "https://github.com",
   "files": [
